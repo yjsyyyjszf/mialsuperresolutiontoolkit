@@ -7,6 +7,13 @@ This software is distributed under the open-source BSD 3-Clause License. See LIC
 
 ---
 [![DOI](https://zenodo.org/badge/85210898.svg)](https://zenodo.org/badge/latestdoi/85210898)
+
+---
+**MIGRATION NOTE**
+
+Development of MIALSRTK been migrated to https://github.com/Medical-Image-Analysis-Laboratory/mialsuperresolutiontoolkit.
+
+---
    
 The Medical Image Analysis Laboratory Super-Resolution ToolKit (MIALSRTK) consists of a set of C++ image processing tools necessary to perform motion-robust super-resolution fetal MRI reconstruction. This toolkit, supported by the Swiss National Science Foundation (grant SNSF-141283), includes all algorithms and methods for brain extraction [1], intensity standardization [1,2], motion estimation and super-resolution [2] developed during my PhD. It uses the CMake build system and depends on the open-source image processing Insight ToolKit (ITK) library, the command line parser TCLAP library and OpenMP for multi-threading. The USAGE message of each tool can be obained using either the *-h* or *--help* flag. 
 
