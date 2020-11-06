@@ -11,7 +11,7 @@ This software is distributed under the open-source BSD 3-Clause License. See LIC
 ---
 **MIGRATION NOTE**
 
-Development of MIALSRTK been migrated to https://github.com/Medical-Image-Analysis-Laboratory/mialsuperresolutiontoolkit.
+Development of MIALSRTK has been migrated to https://github.com/Medical-Image-Analysis-Laboratory/mialsuperresolutiontoolkit.
 
 ---
    
